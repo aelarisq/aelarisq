@@ -19,3 +19,8 @@ Technologies I have experience with in university or past projects.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+---
+
+#### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aelarisq&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=graywhite)
